@@ -1,0 +1,4 @@
+Column A, Column B, Column C, Formula
+1,0,1,"=IF(AND(A7=1,B7=0),""UPDATE"",IF(AND(A7=0,B7=1),""CHECK"",""No Change""))"
+0,1,1,"=IF(AND(A8=1,B8=0),""UPDATE"",IF(AND(A8=0,B8=1),""CHECK"",""No Change""))"
+0,0,0,"=IF(AND(A9=1,B9=0),""UPDATE"",IF(AND(A9=0,B9=1),""CHECK"",""No Change""))"
