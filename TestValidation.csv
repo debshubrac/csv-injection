@@ -21,7 +21,7 @@ id,character,symbol
 20,Backslash,"\\"
 21,Colon,":"
 22,Semicolon,";"
-23,DoubleQuote,""""""   # Escaped double quotes
+23,DoubleQuote,""""""
 24,SingleQuote,"'"
 25,LessThan,"<"
 26,GreaterThan,">"
